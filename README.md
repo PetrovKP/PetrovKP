@@ -2,10 +2,15 @@
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=PetrovKP.PetrovKP)](https://github.com/PetrovKP)
 
-## 🙋 I am...
-A machine learning engineer in Intel company.
+<img align="right" src="https://github.com/PetrovKP/PetrovKP/blob/main/2095831.gif" width="34%">
 
-## Connect with me:
+## 🙋 I am...
+A machine learning engineer in Intel company from Russia.
+
+- 🔭 I’m currently working on [oneDAL](https://github.com/oneapi-src/oneDAL)!
+- 💬 Ask me about anything.
+
+## 🤝🏻 Connect with me:
 
 <div align="center">
 <a href="https://github.com/PetrovKP" target="_blank">
@@ -19,17 +24,22 @@ A machine learning engineer in Intel company.
 </a>  
 </div>
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-
 </p>
-
-## 📊 GitHub Stats
+<details close>
+<summary>GitHub Analytics 📈</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrovKP&theme=vue&show_icons=true&count_private=true&hide_border=true)](https://github.com/PetrovKP)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrovKP&layout=compact&theme=vue&count_private=true&langs_count=8&show_icons=true&hide_border=true)](https://github.com/PetrovKP)
+
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/IchBinLeoon">
+    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=PetrovKP&style=flat-square">
+  </a>
+  <a href="https://github.com/IchBinLeoon">
+    <img alt="Followers" src="https://img.shields.io/github/followers/PetrovKP?color=red&label=Followers&style=flat-square">
+  </a>
+</p>
+
