@@ -9,8 +9,7 @@
   </a>
 </p>
 
-## 🙋 I am...
-A machine learning engineer in Intel company from Russia.
+## 🙋 I am a machine learning engineer in Intel company from Russia.
 
 - 🔭 I’m currently working on [oneDAL](https://github.com/oneapi-src/oneDAL)!
 - 💬 Ask me about anything.
