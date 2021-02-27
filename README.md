@@ -9,6 +9,8 @@
   </a>
 </p>
 
+<img align="right" src="https://github.com/PetrovKP/PetrovKP/blob/main/2095831.gif" width="20%">
+
 ## 🙋 I am a machine learning engineer in Intel company from Russia.
 
 - 🔭 I’m currently working on [oneDAL](https://github.com/oneapi-src/oneDAL)!
