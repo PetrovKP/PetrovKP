@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/PetrovKP">
-    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=PetrovKP.PetrovKP&style=flat-square">
+    <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=PetrovKP.PetrovKP&style=flat-square">
   </a>
   <a href="https://github.com/PetrovKP">
-    <img alt="Followers" src="https://img.shields.io/github/followers/PetrovKP?color=red&label=Followers&style=flat-square">
+    <img alt="followers" src="https://img.shields.io/github/followers/PetrovKP?label=followers&style=flat-square">
   </a>
 </p>
 
-<img align="right" src="https://github.com/PetrovKP/PetrovKP/blob/main/2095831.gif" width="20%">
+<img align="right" src="https://github.com/PetrovKP/PetrovKP/blob/main/2095831.gif" width="15%">
 
 ## 🙋 I am a machine learning engineer in Intel company from Russia
 
