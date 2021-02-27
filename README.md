@@ -1,8 +1,13 @@
 ### 👋 Hi, welcome to my profile!
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=PetrovKP.PetrovKP)](https://github.com/PetrovKP)
-
-<img align="right" src="https://github.com/PetrovKP/PetrovKP/blob/main/2095831.gif" width="34%">
+<p align="center">
+  <a href="https://github.com/PetrovKP">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=PetrovKP.PetrovKP&style=flat-square">
+  </a>
+  <a href="https://github.com/PetrovKP">
+    <img alt="Followers" src="https://img.shields.io/github/followers/PetrovKP?color=red&label=Followers&style=flat-square">
+  </a>
+</p>
 
 ## 🙋 I am...
 A machine learning engineer in Intel company from Russia.
@@ -33,13 +38,3 @@ A machine learning engineer in Intel company from Russia.
 
 </p>
 </details>
-
-<p align="center">
-  <a href="https://github.com/IchBinLeoon">
-    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=PetrovKP&style=flat-square">
-  </a>
-  <a href="https://github.com/IchBinLeoon">
-    <img alt="Followers" src="https://img.shields.io/github/followers/PetrovKP?color=red&label=Followers&style=flat-square">
-  </a>
-</p>
-
