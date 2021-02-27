@@ -2,7 +2,7 @@
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=PetrovKP.PetrovKP)](https://github.com/PetrovKP)
 [![Github](https://img.shields.io/github/followers/PetrovKP?label=Follow&style=social)](https://github.com/PetrovKP)
-
+[![Kaggle Badge](https://img.shields.io/badge/-kppetrov-mediumorchid?&style=flat&logo=kaggle&logoColor=#a6f0c6&link=https://www.kaggle.com/kppetrov)](https://www.kaggle.com/kppetrov)
 
 ## 🙋 I am...
 A machine learning engineer in Intel company.
