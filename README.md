@@ -11,7 +11,7 @@
 
 <img align="right" src="https://github.com/PetrovKP/PetrovKP/blob/main/2095831.gif" width="15%">
 
-## 🙋 I am a machine learning engineer in Intel company from Russia
+## 🙋 I am a machine learning engineer at Intel company from Russia
 
 - 🔭 I’m currently working on [oneDAL](https://github.com/oneapi-src/oneDAL)!
 - 💬 Ask me about anything.
